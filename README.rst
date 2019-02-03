@@ -8,9 +8,9 @@ Introduction
 This python script allows to convert a raw firmware image to an ELF file.
 The ELF file could also contain more information, like: interrupts vector, IO registers, etc.
 
-.. image:: https://raw.github.com/wisk/fw2elf/iv.png
+.. image:: https://github.com/wisk/fw2elf/raw/master/iv.png
 
-.. image:: https://raw.github.com/wisk/fw2elf/vtor.png
+.. image:: https://github.com/wisk/fw2elf/raw/master/vtor.png
 
 
 Supported features
